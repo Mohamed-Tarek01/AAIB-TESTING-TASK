@@ -266,8 +266,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 **🎉 Ready to automate your API testing journey with AAIB Test Framework!**
-#   A A I B - T E S T I N G - T A S K 
- 
- #   A A I B - T E S T I N G - T A S K 
- 
- 
