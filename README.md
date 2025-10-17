@@ -233,8 +233,6 @@ graph TD
 **Mohamed Tarek** - *Software Test Automation Engineer*
 
 📧 **Email**: [m.tareek98@gmail.com](mailto:m.tareek98@gmail.com)
-💼 **LinkedIn**: [Mohamed Tarek](https://linkedin.com/in/mohamed-tarek)
-🏷️ **Specialization**: API & UI Test Automation | CI/CD Enthusiast
 
 ---
 
